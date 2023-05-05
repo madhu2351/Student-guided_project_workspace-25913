@@ -1,1 +1,4 @@
 # Student-guided_project_workspace-25913
+PROJECT TITLE : Build an Event Management System using salesforce
+DEMO LINK : be/ffgjnXZjTWoyoutu_
+TRAILHEAD PROFILE PUBLIC URL :                                                                                                                                            TEAM LEADER: https://trailblazer.me/id/madhumitha57                                                                                                                        TEAM MEMBER 1:https://trailblazer.me/id/jayaa31                                                                                                                            TEAM MEMBER 2:https://trailblazer.me/id/strailhead                                                                                                                        TEAM MEMBER 3:https://trailblazer.me/id/mmpreethimahalakshmi
